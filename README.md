@@ -64,7 +64,7 @@ Technologies that I used to develop this mobile client
 
 ### Requirements
 
-- Have this application's [API](https://github.com/caioperess/goBarber_web) running
+- Have this application's [API](https://github.com/caioperess/goBarber_api) running
 
 **Clone the project and access the folder**
 
