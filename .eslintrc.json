@@ -25,6 +25,7 @@
     "eqeqeq": "warn",
     "camelcase": "off",
     "no-alert": "off",
+    "object-curly-newline": "off",
     "react/require-default-props": "off",
     "react/jsx-curly-newline": "off",
     "react/jsx-one-expression-per-line": "off",
