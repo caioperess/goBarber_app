@@ -4,6 +4,7 @@ export const theme = {
     background: '#312E38',
     orange: '#FF9000',
     input: '#232129',
+    error: '#c53030',
   },
   fonts: {
     md: 'RobotoSlab-Regular',

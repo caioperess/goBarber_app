@@ -2,7 +2,11 @@
   "env": {
     "es2021": true
   },
-  "extends": ["plugin:react/recommended", "airbnb"],
+  "extends": [
+    "plugin:react/recommended",
+    "airbnb",
+    "plugin:react-hooks/recommended"
+  ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaFeatures": {
@@ -17,6 +21,9 @@
   },
   "plugins": ["react", "@typescript-eslint", "prettier", "import"],
   "rules": {
+    "implicit-arrow-linebreak": "off",
+    "operator-linebreak": "off",
+    "react/function-component-definition": "off",
     "semi": "off",
     "linebreak-style": "off",
     "prettier/prettier": "error",
